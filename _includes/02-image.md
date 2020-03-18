@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Bender](http://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/5/51/Bender.jpg)
