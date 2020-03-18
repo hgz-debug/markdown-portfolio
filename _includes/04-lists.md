@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Books I'm reading now :smile: :
+* A Canticle for Leibowitz 
+* The Black Swan
